@@ -9,6 +9,8 @@ This project is dedicated to mastering **Playwright** for web automation, starti
 - 📁 **[Chapter1_Basics](./Chapter1_Basics)**: Covers the fundamental building blocks required before diving into Playwright automation.
 - 📁 **[Chapter2_core_concept](./Chapter2_core_concept)**: Dives into the core mechanics of JavaScript which are essential for understanding how scripts behave in Playwright.
 - 📁 **[Chapter3_literal_identifier_operater.js](./Chapter3_literal_identifier_operater.js)**: Covers concepts around logic, operators, literals, and identifiers in Javascript.
+- 📁 **[Chapter4_operators](./Chapter4_operators)**: Detailed overview of different operators used in JavaScript.
+- 📁 **[Chapter5_statements](./Chapter5_statements)**: Covers different statements, conditions, and control flows in JavaScript.
 
 ## 🚀 Getting Started
 
