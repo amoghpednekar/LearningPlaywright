@@ -122,3 +122,43 @@ else {
     console.log("You are not eligible for a discount percentage of as your purchase amount is less than 500");
 }
 
+//Write a program that greets the user based on the time of day. Display good morning, good afternnon or good evening based on the time of day when you run the code.
+// I kmow this is not a correct way but just a beginner program
+let time = 14;
+
+if (time >= 0 && time <= 12) {
+    console.log("Good morning");
+} else if (time >= 13 && time <= 16) {
+    console.log("Good afternoon");
+} else if (time >= 16 && time <= 22) {
+    console.log("Good evening");
+}
+else {
+    console.log("Good night");
+}
+
+//Write a program that calculates the Body Mass Index (BMI) and categorizes it. 
+// The formula for BMI is: weight / (height * height).
+// BMI < 18.5: Underweight
+// BMI 18.5 – 24.9: Normal weight
+// BMI 25 – 29.9: Overweight
+// BMI ≥ 30: Obesity
+
+
+let myWeight = 80;
+let myHeight = 1.73;
+let myBMI = myWeight / (myHeight * myHeight);
+console.log(myBMI);
+
+if (myBMI <= 18.5) {
+    console.log("You are Underweight");
+} else if (myBMI > 18.5 && myBMI <= 24.9) {
+    console.log("Your weight is normal");
+} else if (myBMI >= 25 && myBMI <= 29.9) {
+    console.log("You are overweight");
+} else if (myBMI >= 30) {
+    console.log("You are obese");
+}
+else {
+    console.log("Invalid weight or height Input");
+}
