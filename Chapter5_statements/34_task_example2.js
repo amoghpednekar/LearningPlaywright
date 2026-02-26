@@ -14,3 +14,19 @@ for (let myNumber = 1; myNumber <= 100; myNumber++) {
         console.log(myNumber);
     }
 }
+
+//above was incorrect we have to keep 2 condition comparing first and then the individual
+// following is correct way of doing:
+
+for (let myNumber = 1; myNumber <= 100; myNumber++) {
+    if (myNumber % 3 === 0 && myNumber % 5 === 0) {
+        console.log("FizzBuzz");
+    } else if (myNumber % 3 === 0) {
+        console.log("Fizz");
+    } else if (myNumber % 5 === 0) {
+        console.log("Buzz");
+    }
+    else {
+        console.log(myNumber);
+    }
+}
