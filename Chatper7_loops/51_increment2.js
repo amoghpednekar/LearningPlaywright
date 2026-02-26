@@ -150,6 +150,18 @@ console.log(--be + ++be - be++ + --be);
 // expression (--be + ++be - be++ + --be) = {(10-1)+(10-1+1)-(10)+(10+1-1)}
 // (9 + 10 - 10 + 10)
 
+//one more example
+
+let ce = 34;
+console.log(++ce - --ce + ce++ + ++ce);
+
+//ERT - Expression result table
+// Line no | Variable | Result
+//   160   |  34  | NA
+// expression (++ce - --ce + ce++ + ++ce) = (35 - (35-1)+ (34)+ 34+1+1)
+// (35-34 + 34 + 36) = 1+70 =71
+
+
 
 
 
