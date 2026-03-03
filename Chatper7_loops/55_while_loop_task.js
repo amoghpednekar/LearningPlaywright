@@ -42,3 +42,13 @@ while (multiplyNum <= 10) {
     multiplyNum = multiplyNum + 1;
     console.log(multiply);
 }
+
+console.log(x);
+var x = 5;
+
+// console.log(y);
+// let y = 10;
+
+console.log(2 ** 3);
+
+
