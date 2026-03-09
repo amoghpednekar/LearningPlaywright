@@ -1,0 +1,24 @@
+{
+  "name": "playwrightmastery",
+  "version": "1.0.0",
+  "description": "Welcome to the **Learning Playwright** repository! 🚀",
+  "main": "Chapter3_literal_identifier_operater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoghpednekar/LearningPlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amoghpednekar/LearningPlaywright/issues"
+  },
+  "homepage": "https://github.com/amoghpednekar/LearningPlaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
