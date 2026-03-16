@@ -11,6 +11,10 @@ This project is dedicated to mastering **Playwright** for web automation, starti
 - 📁 **[Chapter3_literal_identifier_operater.js](./Chapter3_literal_identifier_operater.js)**: Covers concepts around logic, operators, literals, and identifiers in Javascript.
 - 📁 **[Chapter4_operators](./Chapter4_operators)**: Detailed overview of different operators used in JavaScript.
 - 📁 **[Chapter5_statements](./Chapter5_statements)**: Covers different statements, conditions, and control flows in JavaScript.
+- 📁 **[Chapter6_switch_statements](./Chapter6_switch_statements)**: Covers switch-case statements and their usage in JavaScript.
+- 📁 **[Chatper7_loops](./Chatper7_loops)**: Covers different loop types — for, while, and do-while loops in JavaScript.
+- 📁 **[Chapter8_Arrays](./Chapter8_Arrays)**: Covers array creation, manipulation, and common array methods in JavaScript.
+- 📁 **[Chapter9_Functions](./Chapter9_Functions)**: Covers all types of functions — basic, arrow, IIFE, default parameters, rest parameters, and more.
 
 ## 🚀 Getting Started
 
