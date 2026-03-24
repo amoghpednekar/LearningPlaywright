@@ -66,3 +66,4 @@ const Sayhi = function (name2) {
     console.log(`Hellow, ${name2}`);
 }
 Sayhi("Amdadoj")
+
