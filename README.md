@@ -15,6 +15,7 @@ This project is dedicated to mastering **Playwright** for web automation, starti
 - 📁 **[Chatper7_loops](./Chatper7_loops)**: Covers different loop types — for, while, and do-while loops in JavaScript.
 - 📁 **[Chapter8_Arrays](./Chapter8_Arrays)**: Covers array creation, manipulation, and common array methods in JavaScript.
 - 📁 **[Chapter9_Functions](./Chapter9_Functions)**: Covers all types of functions — basic, arrow, IIFE, default parameters, rest parameters, and more.
+- 📁 **[Chapter10_Strings](./Chapter10_Strings)**: Covers string manipulation, properties, template literals, searching, substring extraction, and matching.
 
 ## 🚀 Getting Started
 
