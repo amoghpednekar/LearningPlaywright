@@ -16,6 +16,7 @@ This project is dedicated to mastering **Playwright** for web automation, starti
 - 📁 **[Chapter8_Arrays](./Chapter8_Arrays)**: Covers array creation, manipulation, and common array methods in JavaScript.
 - 📁 **[Chapter9_Functions](./Chapter9_Functions)**: Covers all types of functions — basic, arrow, IIFE, default parameters, rest parameters, and more.
 - 📁 **[Chapter10_Strings](./Chapter10_Strings)**: Covers string manipulation, properties, template literals, searching, substring extraction, and matching.
+- 📁 **[Chapter11_Objects](./Chapter11_Objects)**: Covers objects, properties, access methods, copying by reference, and using const with objects.
 
 ## 🚀 Getting Started
 
