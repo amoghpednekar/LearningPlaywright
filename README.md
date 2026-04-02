@@ -17,6 +17,7 @@ This project is dedicated to mastering **Playwright** for web automation, starti
 - 📁 **[Chapter9_Functions](./Chapter9_Functions)**: Covers all types of functions — basic, arrow, IIFE, default parameters, rest parameters, and more.
 - 📁 **[Chapter10_Strings](./Chapter10_Strings)**: Covers string manipulation, properties, template literals, searching, substring extraction, and matching.
 - 📁 **[Chapter11_Objects](./Chapter11_Objects)**: Covers objects, properties, access methods, copying by reference, and using const with objects.
+- 📁 **[Chapter12_Multidimentional_array](./Chapter12_Multidimentional_array)**: Covers multidimensional arrays (2D arrays/grids) basics, accessing elements, updating values, and finding row/column lengths.
 
 ## 🚀 Getting Started
 
